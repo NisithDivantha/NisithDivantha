@@ -1,4 +1,4 @@
-# Hello World!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Medium-Dark%20Skin%20Tone.png" alt="Hand with Fingers Splayed Medium-Dark Skin Tone" width="25" height="25" /> I'm Nisth Dissanayake
+# Hello World! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Medium-Dark%20Skin%20Tone.png" alt="Hand with Fingers Splayed Medium-Dark Skin Tone" width="40" height="40" /> I'm Nisth Dissanayake
 
 ## About Me 👨🏾‍💻
 I'm a Computer Science and Engineering undergraduate specializing in the field of Data Science and Engineering. I am really passionate about Machine Learning related work and Game Development. Currently I am learning and keenly experimenting on both of these fields. 
