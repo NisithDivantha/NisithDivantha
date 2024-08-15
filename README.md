@@ -11,8 +11,10 @@ I'm a Computer Science and Engineering undergraduate specializing in the field o
 - **Areas of Expertise:** Time Series Forecasting, Data Visualization, Data Analysis
 - 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Languages
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,css,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,css,cs)](https://skillicons.dev)
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Game Development
+[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 
 ## 💬 Get in Touch
 
