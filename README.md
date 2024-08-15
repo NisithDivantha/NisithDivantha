@@ -20,7 +20,6 @@ I'm a Computer Science and Engineering undergraduate specializing in the field o
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/chroma-dark.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/langchain.svg" width="50">
-    <img src="https://avatars.githubusercontent.com/u/134601687?s=200&v=4" width="50">
     <img src="https://raw.githubusercontent.com/HanaokaYuzu/Gemini-API/master/assets/banner.png" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/openai-dark.svg" width="50">
     <img src="https://www.iconsdb.com/icons/preview/soylent-red/wolfram-alpha-xxl.png" width="50">
