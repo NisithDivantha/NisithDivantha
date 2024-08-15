@@ -1,12 +1,9 @@
-# Hello World! 👋 I'm NisthDivantha
+# Hello World! 👋 I'm Nisth Dissanayake
 
 ## About Me
+I'm a Computer Science and Engineering undergraduate specializing in the field of Data Science and Engineering. I am really passionate about Machine Learning related work and Game Development. Currently I am learning and keenly experimenting on both of these fields. 
 
-I am a passionate software developer with a keen interest in time series forecasting, data analysis, and creating dynamic visualizations. I am also exploring YouTube content creation, focusing on racing bar charts and data-driven animations.
-
-- 🌱 I’m currently learning: Advanced time series forecasting models using Darts
-- 🔭 I’m currently working on: My YouTube channel featuring racing bar charts over the years
-- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile/) | [Twitter](https://twitter.com/yourprofile)
+- 📫 How to reach me: [Email](nisith.21@cse.mrt.ac.lk) | [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/nisith-dissanayake-550b86268/)) 
 
 ## 🚀 Skills and Technologies
 
