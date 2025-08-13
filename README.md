@@ -1,8 +1,6 @@
 <!-- <div align="center">
   <img src="images/Futuristic Gym and Music Fusion.png" alt="Header Image" style="width: 100%; max-width: 1584px; height: auto;" />
 </div> -->
-# Hey there! 👋 I'm Nisith
-
 <div align="center">
   
 🎓 **Computer Science & Engineering** | 📊 **Data Science Enthusiast** | 🤖 **AI/ML Specialist**
