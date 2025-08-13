@@ -1,4 +1,4 @@
-<img src="images/Futuristic_Gym_and_Music_Fusion.png" width="100%" />
+<img src="images/Futuristic_Gym_and_Music_Fusion.png" width="1584" height="396" />
 
 
 
