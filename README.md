@@ -1,10 +1,12 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋;Nisith+here;AI%2FML+Enthusiast;Computer+Science+Student;Building+the+Future+🚀" alt="Typing SVG" />
-</div>
+</div> -->
+
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
-</div>
+</div> 
 
 <!-- Static header image fallback -->
 <!-- <div align="center">
@@ -34,3 +36,16 @@ class Nisith:
             "💡 Innovation": "Always exploring new technologies"
         }
 ```
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=NisithDivantha&color=00d9ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</div>
+
+</div>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!;Let's+build+the+future+together+🚀;Always+ready+for+new+challenges!" alt="Footer Animation"/>
+</div>
