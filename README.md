@@ -12,7 +12,7 @@
 </div> -->
 <div align="center">
   
-🎓 **Computer Science & Engineering** | 🤖 **AI/ML Enthusiast**
+<h2>🎓 <strong>Computer Science & Engineering</strong> | 🤖 <strong>AI/ML Enthusiast</strong></h2>
 
 *Passionate about turning data into actionable insights and building intelligent systems*
   
