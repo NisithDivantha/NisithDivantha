@@ -1,3 +1,4 @@
+![My Photo](Futuristic_Gym_and_Music_Fusion.png)
 <img src=Futuristic_Gym_and_Music_Fusion.png width="1584" height="396" />
 
 
