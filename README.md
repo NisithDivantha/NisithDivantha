@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/Futuristic Gym and Music Fusion.png" alt="Header Image" width="1584" height="396" />
+  <img src="images/Futuristic Gym and Music Fusion.png" alt="Header Image" style="width: 100%; max-width: 1584px; height: auto;" />
 </div>
 
 # 👋 Hi there
