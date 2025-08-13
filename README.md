@@ -38,14 +38,8 @@ class Nisith:
 ```
 
 ---
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=NisithDivantha&color=00d9ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
-
-</div>
-
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!;Let's+build+the+future+together+🚀;Always+ready+for+new+challenges!" alt="Footer Animation"/>
-</div>
+</div> 
