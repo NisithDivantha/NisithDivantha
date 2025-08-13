@@ -12,7 +12,7 @@
 </div> -->
 <div align="center">
   
-🎓 **Computer Science & Engineering** | 📊 **Data Science Enthusiast** | 🤖 **AI/ML Specialist**
+🎓 **Computer Science & Engineering** | 🤖 **AI/ML Enthusiast**
 
 *Passionate about turning data into actionable insights and building intelligent systems*
   
