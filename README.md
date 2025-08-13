@@ -1,4 +1,4 @@
-![My Photo](Futuristic Gym and Music Fusion.png)
+![My Photo](Futuristic%20Gym%20and%20Music%20Fusion.png)
 
 
 # 👋 Hi there
