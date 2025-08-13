@@ -1,4 +1,5 @@
 ![My Photo](Futuristic%20Gym%20and%20Music%20Fusion.png)
+<img src=Futuristic%20Gym%20and%20Music%20Fusion.png width="200" />
 
 
 # 👋 Hi there
