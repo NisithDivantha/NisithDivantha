@@ -38,8 +38,32 @@ class Nisith:
 ```
 
 ---
-</div>
-<!-- Animated Footer -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!;Let's+build+the+future+together+🚀;Always+ready+for+new+challenges!" alt="Footer Animation"/>
+
+### 🌐 **Find Me Online**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nisith-dissanayake-550b86268">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/nisith210144g">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://www.instagram.com/nisith_dissanayake/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100075922505752">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
+### 💬 **Always Open To Discuss**
+🤖 **AI/ML Projects** • 📊 **Data Science Collaborations** • 🚀 **Tech Innovation** • 🎓 **Research Opportunities**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=💡+Got+an+interesting+project%3F+Let's+collaborate!;🚀+Building+tomorrow's+AI+solutions+together;+📊Turning+data+into+meaningful+insights" alt="Footer Animation"/>
+
+---
+
+**Thanks for visiting!** 🙏 • **Star ⭐ if you find something interesting!**
+
 </div> 
