@@ -4,21 +4,22 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
 </div> 
 
 <!-- Static header image fallback -->
-<!-- <div align="center">
-  <img src="images/Futuristic Gym and Music Fusion.png" alt="Header Image" style="width: 100%; max-width: 1584px; height: auto;" />
-</div> -->
 <div align="center">
+  <img src="images/Futuristic Gym and Music Fusion.png" alt="Nisith Divantha - AI/ML Engineer Header" style="width: 100%; max-width: 1200px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 217, 255, 0.3);" />
+</div>
+
+<div align="center"> 
   
 <h2>🎓 <strong>Computer Science & Engineering</strong> | 🤖 <strong>AI/ML Enthusiast</strong></h2>
 
 *Passionate about turning data into actionable insights and building intelligent systems*
   
-</div>
+<!-- </div>
 
 ## 🚀 What I'm About
 
@@ -35,7 +36,7 @@ class Nisith:
             "📈 Data Science": "Analytics, visualization, insights",
             "💡 Innovation": "Always exploring new technologies"
         }
-```
+``` -->
 
 ---
 <div align="center">
@@ -60,7 +61,7 @@ class Nisith:
 ### 💬 **Always Open To Discuss**
 🤖 **AI/ML Projects** • 📊 **Data Science Collaborations** • 🚀 **Tech Innovation** • 🎓 **Research Opportunities**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=💡+Got+an+interesting+project%3F+Let's+collaborate!;🚀+Building+tomorrow's+AI+solutions+together;+📊Turning+data+into+meaningful+insights" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=💡+Got+an+interesting+project%3F+Let's+collaborate!;🚀+Building+tomorrow's+AI+solutions+together;+📊+Turning+data+into+meaningful+insights" alt="Footer Animation"/>
 
 ---
 
